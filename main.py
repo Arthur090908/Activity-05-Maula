@@ -1,7 +1,7 @@
 import cv2 as cv
 import numpy as np
 
-img  = cv.imread("puppy.jpg")
+img  = cv.imread("simooon.jpg")
 
 if(len(img.shape)<2):
     print('\nImage type: Grayscale image')
